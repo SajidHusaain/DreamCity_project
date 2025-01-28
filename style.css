@@ -1,0 +1,151 @@
+.button_darkblue{
+		position: relative;
+	padding: 5px 10px;
+	border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 15px;
+	color: #FFF;
+	text-decoration: none;	
+	background: #3498DB;
+	border-bottom: 5px solid #2980B9;
+	text-shadow: 0px -2px #2980B9;
+}
+.button_darkblue:hover{
+	opacity: 0.7;
+	cursor: pointer;
+}
+.button_darkblue:active{
+	border-bottom: 0;
+}
+.button_darkblue:focus { outline: none; }
+.button_lightblue{
+	position: relative;
+	padding: 5px 10px;
+	border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 15px;
+	color: #FFF;
+	text-decoration: none;	
+	 background: #55acee;
+	border-bottom: 5px solid #3C93D5;
+	text-shadow: 0px -2px #d3f2fb;
+
+}
+.button_lightblue:hover{
+	opacity: 0.7;
+	cursor: pointer;
+}
+.button_lightblue:active{
+	border-bottom: 0;
+}
+.button_lightblue:focus { outline: none; }
+.button_darkred{
+		position: relative;
+	padding: 5px 10px;
+	border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 15px;
+	color: #FFF;
+	text-decoration: none;
+	background: #DC143C;
+	border-bottom: 5px solid #B22222;
+	text-shadow: 0px -2px #B22222;
+}
+.button_darkred:hover{
+	opacity: 0.7;
+	cursor: pointer;
+}
+.button_darkred:active{
+	border-bottom: 0;
+}
+.button_darkred:focus { outline: none; }
+.button_lightred{
+		position: relative;
+	padding: 5px 10px;
+	border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 15px;
+	color: #FFF;
+	text-decoration: none;	
+	border-bottom: 5px solid #CE3323;
+	text-shadow: 0px -2px #CE3323;
+	background: #e74c3c;
+}
+.button_lightred:hover{
+	opacity: 0.7;
+	cursor: pointer;
+}
+.button_lightred:active{
+	border-bottom: 0;
+}
+.button_lightred:focus { outline: none; }
+.button_purple{
+		position: relative;
+	padding: 5px 10px;
+	border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 15px;
+	color: #FFF;
+	text-decoration: none;	
+	border-bottom: 5px solid #82409D;
+	text-shadow: 0px -2px #82409D;
+	background: #9b59b6;
+}
+.button_purple:hover{
+	opacity: 0.7;
+	cursor: pointer;
+}
+.button_purple:active{
+	border-bottom: 0;
+}
+.button_purple:focus { outline: none; }
+.button_orange{
+		position: relative;
+	padding: 5px 10px;
+	border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 15px;
+	color: #FFF;
+	text-decoration: none;	
+	border-bottom: 5px solid #CD6509;
+	text-shadow: 0px -2px #CD6509;
+	background: #e67e22;
+}
+.button_orange:hover{
+	opacity: 0.7;
+	cursor: pointer;
+}
+.button_orange:active{
+	border-bottom: 0;
+}
+.button_orange:focus { outline: none; }
+.button_yellow{
+		position: relative;
+	padding: 5px 10px;
+	border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 15px;
+	color: #FFF;
+	text-decoration: none;	
+	border-bottom: 5px solid #D8AB00;
+	text-shadow: 0px -2px #D8AB00;
+	background: #f1c40f;
+}
+.button_yellow:hover{
+	opacity: 0.7;
+	cursor: pointer;
+}
+.button_yellow:active{
+	border-bottom: 0;
+}
+.button_yellow:focus { outline: none; }
+
+	#pagewrap {width:100%; position:relative;height: 100px;}
+#left { position: absolute; left: 0; top: 0; width: 30%;height: 100px;}
+#right { position: absolute; right: 0; top: 0; width: 70%;height: 100px;}
+.message {
+    background: #ffeca4;
+    border: 1px solid #f16702;
+    padding: 1em;
+    width: 333px;
+}
